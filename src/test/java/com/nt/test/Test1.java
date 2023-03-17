@@ -43,4 +43,7 @@ public class Test1 {
 	public void demo() {
 		System.out.println("demo2");
 	}
+	public void demo3() {
+		System.out.println("hello");
+	}
 }
