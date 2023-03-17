@@ -39,4 +39,8 @@ public class Test1 {
 	public void jaggu() {
 		System.out.println("jagdish");
 	}
+	
+	public void demo() {
+		
+	}
 }
