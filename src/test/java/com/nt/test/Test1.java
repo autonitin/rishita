@@ -41,6 +41,6 @@ public class Test1 {
 	}
 	
 	public void demo() {
-		
+		System.out.println("demo2");
 	}
 }
