@@ -35,4 +35,8 @@ public class Test1 {
 	public void m4() {
 		System.out.println("Test1.m4()");
 	}
+	
+	public void jaggu() {
+		System.out.println("jagdish");
+	}
 }
