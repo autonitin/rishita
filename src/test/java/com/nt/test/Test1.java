@@ -31,4 +31,8 @@ public class Test1 {
 		System.out.println("Test1.afterMethod()");
 	}
 	
+	@Test
+	public void m4() {
+		System.out.println("Test1.m4()");
+	}
 }
